@@ -30,6 +30,7 @@
 		<url>http://www.alibaba.com</url>
 	</organization>
 	<modules>
+		<module>spring-bom</module>
 		<module>hessian-lite</module>
 		<module>dubbo-common</module>
 		<module>dubbo-container</module>
@@ -44,8 +45,6 @@
 		<module>dubbo-simple</module>
 		<module>dubbo-admin</module>
 		<module>dubbo-demo</module>
-		<module>dubbo-http</module>
-		<module>spring-bom</module>
 	</modules>
 	<profiles>
 		<profile>
